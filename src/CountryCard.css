@@ -1,0 +1,16 @@
+.countryDetails {
+    display: inline-block;
+    padding: 0.5em;
+    margin: 4px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    background: beige;
+  }
+  img{
+      width: 60px;
+      height: 50px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+  }
